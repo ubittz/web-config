@@ -4,6 +4,9 @@
   "description": "Ubittz Web Config Packages",
   "type": "module",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ubittz/web-config.git"
