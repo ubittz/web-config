@@ -1,0 +1,35 @@
+{
+  "name": "@ubittz/web-config",
+  "version": "0.0.1",
+  "description": "Ubittz Web Config Packages",
+  "type": "module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubittz/web-config.git"
+  },
+  "author": "wongil12 <judgevi52@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ubittz/web-config/issues"
+  },
+  "homepage": "https://github.com/ubittz/web-config",
+  "keywords": [
+    "prettier",
+    "eslint"
+  ],
+  "peerDependencies": {
+    "prettier": ">=3.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.31.0",
+    "eslint": "^9.31.0",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.3.0",
+    "prettier": "^3.6.2",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.37.0"
+  }
+}
