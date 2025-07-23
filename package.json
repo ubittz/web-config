@@ -1,6 +1,6 @@
 {
   "name": "@ubittz/web-config",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Ubittz Web Config Packages",
   "main": "index.js",
   "exports": {
