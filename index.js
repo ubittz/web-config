@@ -1,4 +1,7 @@
-import eslintConfig from './eslint.js';
-import prettierConfig from './prettier.js';
+const eslintConfig = require('./eslint.js');
+const prettierConfig = require('./prettier.js');
 
-export { eslintConfig, prettierConfig };
+module.exports = {
+  eslintConfig,
+  prettierConfig,
+};
